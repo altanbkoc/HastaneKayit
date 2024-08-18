@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             Guna.UI2.AnimatorNS.Animation animation1 = new Guna.UI2.AnimatorNS.Animation();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmHastaDetay));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
@@ -47,7 +47,9 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.guna2GroupBox4 = new Guna.UI2.WinForms.Guna2GroupBox();
+            this.dataAktifRandevu = new System.Windows.Forms.DataGridView();
             this.guna2GroupBox3 = new Guna.UI2.WinForms.Guna2GroupBox();
+            this.dataRandevuGecmisi = new System.Windows.Forms.DataGridView();
             this.kapat = new Guna.UI2.WinForms.Guna2ControlBox();
             this.altaAl = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2GroupBox2 = new Guna.UI2.WinForms.Guna2GroupBox();
@@ -73,18 +75,16 @@
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Transition1 = new Guna.UI2.WinForms.Guna2Transition();
-            this.dataRandevuGecmisi = new System.Windows.Forms.DataGridView();
-            this.dataAktifRandevu = new System.Windows.Forms.DataGridView();
             this.guna2GradientPanel1.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
             this.guna2GroupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataAktifRandevu)).BeginInit();
             this.guna2GroupBox3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataRandevuGecmisi)).BeginInit();
             this.guna2GroupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.guna2GroupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataRandevuGecmisi)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataAktifRandevu)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2BorderlessForm1
@@ -358,6 +358,25 @@
             this.guna2GroupBox4.TabIndex = 23;
             this.guna2GroupBox4.Text = "Aktif Randevular";
             // 
+            // dataAktifRandevu
+            // 
+            this.dataAktifRandevu.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataAktifRandevu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.guna2Transition1.SetDecoration(this.dataAktifRandevu, Guna.UI2.AnimatorNS.DecorationType.None);
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Snow;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.DarkSeaGreen;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Snow;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataAktifRandevu.DefaultCellStyle = dataGridViewCellStyle1;
+            this.dataAktifRandevu.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataAktifRandevu.Location = new System.Drawing.Point(0, 35);
+            this.dataAktifRandevu.Name = "dataAktifRandevu";
+            this.dataAktifRandevu.Size = new System.Drawing.Size(635, 210);
+            this.dataAktifRandevu.TabIndex = 1;
+            // 
             // guna2GroupBox3
             // 
             this.guna2GroupBox3.BackColor = System.Drawing.Color.Transparent;
@@ -375,6 +394,25 @@
             this.guna2GroupBox3.Size = new System.Drawing.Size(635, 236);
             this.guna2GroupBox3.TabIndex = 22;
             this.guna2GroupBox3.Text = "Randevu Geçmişi";
+            // 
+            // dataRandevuGecmisi
+            // 
+            this.dataRandevuGecmisi.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataRandevuGecmisi.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.guna2Transition1.SetDecoration(this.dataRandevuGecmisi, Guna.UI2.AnimatorNS.DecorationType.None);
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Snow;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.WhiteSmoke;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.DarkOrange;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Snow;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataRandevuGecmisi.DefaultCellStyle = dataGridViewCellStyle2;
+            this.dataRandevuGecmisi.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataRandevuGecmisi.Location = new System.Drawing.Point(0, 35);
+            this.dataRandevuGecmisi.Name = "dataRandevuGecmisi";
+            this.dataRandevuGecmisi.Size = new System.Drawing.Size(635, 201);
+            this.dataRandevuGecmisi.TabIndex = 1;
             // 
             // kapat
             // 
@@ -729,44 +767,6 @@
             animation1.TransparencyCoeff = 0F;
             this.guna2Transition1.DefaultAnimation = animation1;
             // 
-            // dataRandevuGecmisi
-            // 
-            this.dataRandevuGecmisi.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataRandevuGecmisi.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.guna2Transition1.SetDecoration(this.dataRandevuGecmisi, Guna.UI2.AnimatorNS.DecorationType.None);
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Snow;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.DarkOrange;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.DarkOrange;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Snow;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataRandevuGecmisi.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataRandevuGecmisi.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataRandevuGecmisi.Location = new System.Drawing.Point(0, 35);
-            this.dataRandevuGecmisi.Name = "dataRandevuGecmisi";
-            this.dataRandevuGecmisi.Size = new System.Drawing.Size(635, 201);
-            this.dataRandevuGecmisi.TabIndex = 1;
-            // 
-            // dataAktifRandevu
-            // 
-            this.dataAktifRandevu.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataAktifRandevu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.guna2Transition1.SetDecoration(this.dataAktifRandevu, Guna.UI2.AnimatorNS.DecorationType.None);
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Snow;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.DarkSeaGreen;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.DarkSeaGreen;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Snow;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataAktifRandevu.DefaultCellStyle = dataGridViewCellStyle1;
-            this.dataAktifRandevu.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataAktifRandevu.Location = new System.Drawing.Point(0, 35);
-            this.dataAktifRandevu.Name = "dataAktifRandevu";
-            this.dataAktifRandevu.Size = new System.Drawing.Size(635, 210);
-            this.dataAktifRandevu.TabIndex = 1;
-            // 
             // FrmHastaDetay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
@@ -784,15 +784,15 @@
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
             this.guna2GroupBox4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataAktifRandevu)).EndInit();
             this.guna2GroupBox3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataRandevuGecmisi)).EndInit();
             this.guna2GroupBox2.ResumeLayout(false);
             this.guna2GroupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.guna2GroupBox1.ResumeLayout(false);
             this.guna2GroupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataRandevuGecmisi)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataAktifRandevu)).EndInit();
             this.ResumeLayout(false);
 
         }
