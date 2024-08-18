@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|c:\\users\\90542\\desktop\\kod\\c#\\hastaneprojesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833F651B-B20A-457C-954B-86FA5A8E2FDD}|HastaneProjesi.csproj|solutionrelative:frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHastaGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmHastaGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:34:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmHastaDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmHastaDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:58:35.483Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:30:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHastaDetay.cs",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaDetay.cs",
+              "RelativeToolTip": "FrmHastaDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:33:43.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmHastaKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmHastaKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:52:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:45:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\SqlBaglanti.cs",
+              "RelativeDocumentMoniker": "SqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\SqlBaglanti.cs",
+              "RelativeToolTip": "SqlBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:17:46.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\C#\\HastaneProjesi\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\C#\\HastaneProjesi\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:58:26.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmGirisler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmGirisler.cs",
+              "RelativeDocumentMoniker": "FrmGirisler.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\C#\\HastaneProjesi\\FrmGirisler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\C#\\HastaneProjesi\\FrmGirisler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:45:04.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDoktorPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmDoktorPaneli.cs",
+              "RelativeToolTip": "FrmDoktorPaneli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:47:06.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\C#\\HastaneProjesi\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\C#\\HastaneProjesi\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:41:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSekreterDetay.cs",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmSekreterDetay.cs",
+              "RelativeToolTip": "FrmSekreterDetay.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:21:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmHastaGiris.cs",
+              "DocumentMoniker": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\90542\\Desktop\\Kod\\C#\\HastaneProjesi\\FrmHastaGiris.cs",
+              "RelativeToolTip": "FrmHastaGiris.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:18:25.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
